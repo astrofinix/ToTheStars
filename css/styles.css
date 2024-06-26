@@ -1192,9 +1192,9 @@ a {
   text-align: center;
   z-index: 300;
   position: absolute;
-  font-size: 2vw;
+  font-size: 4vw;
   color: #f4f4f4;
-  padding-top: 170vh;
+  padding-top: 10vh;
 }
 .quote_container {
   height: 300vh;
