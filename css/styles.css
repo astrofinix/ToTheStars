@@ -1976,7 +1976,7 @@ a {
   background-color: var(--white);
 }
 .chapter3_1 {
-  height: 800vh;
+  height: 600vh;
   background-color: rgb(210, 127, 154);
 }
 .chapter3_2 {
@@ -2060,7 +2060,7 @@ a {
 .fourth-wrap {
   height: 60vh;
   width: 100vw;
-  background: #ffffff url("../img/ceremony.jpg") no-repeat fixed;
+  background: #ffffff url("../img/scitech.jpg") no-repeat fixed;
   background-size: cover;
   background-position: 50% 50%;
 }
