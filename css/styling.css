@@ -236,6 +236,7 @@ nav ul li a {
   position: absolute;
   transform: rotate(32deg);
   animation: confetti_load 2s;
+  animation-iteration-count: 1;
 }
 .con2 {
   width: 45vw;
@@ -245,6 +246,7 @@ nav ul li a {
   position: absolute;
   transform: rotate(2deg);
   animation: confetti_load 2s;
+  animation-iteration-count: 1;
 }
 .con3 {
   width: 45vw;
@@ -254,6 +256,7 @@ nav ul li a {
   position: absolute;
   transform: rotate(-40deg);
   animation: confetti_load 2s;
+  animation-iteration-count: 1;
 }
 .con4 {
   width: 45vw;
@@ -263,6 +266,7 @@ nav ul li a {
   position: absolute;
   transform: rotate(-20deg);
   animation: confetti_load 2s;
+  animation-iteration-count: 1;
 }
 .con5 {
   width: 45vw;
@@ -272,6 +276,7 @@ nav ul li a {
   position: absolute;
   transform: rotate(5deg);
   animation: confetti_load 2s;
+  animation-iteration-count: 1;
 }
 .con6 {
   width: 45vw;
@@ -281,6 +286,7 @@ nav ul li a {
   position: absolute;
   transform: rotate(14deg);
   animation: confetti_load 2s;
+  animation-iteration-count: 1;
 }
 .con7 {
   width: 45vw;
@@ -290,6 +296,7 @@ nav ul li a {
   position: absolute;
   transform: rotate(32deg);
   animation: confetti_load 2s;
+  animation-iteration-count: 1;
 }
 .con8 {
   width: 45vw;
@@ -299,6 +306,7 @@ nav ul li a {
   position: absolute;
   transform: rotate(32deg);
   animation: confetti_load 2s;
+  animation-iteration-count: 1;
 }
 .con9 {
   width: 45vw;
@@ -308,6 +316,7 @@ nav ul li a {
   position: absolute;
   transform: rotate(32deg);
   animation: confetti_load 2s;
+  animation-iteration-count: 1;
 }
 .con10 {
   width: 45vw;
@@ -317,6 +326,7 @@ nav ul li a {
   position: absolute;
   transform: rotate(32deg);
   animation: confetti_load 2s;
+  animation-iteration-count: 1;
 }
 .con11 {
   width: 45vw;
@@ -326,6 +336,7 @@ nav ul li a {
   position: absolute;
   transform: rotate(32deg);
   animation: confetti_load 2s;
+  animation-iteration-count: 1;
 }
 .con12 {
   width: 45vw;
@@ -335,6 +346,7 @@ nav ul li a {
   position: absolute;
   transform: rotate(32deg);
   animation: confetti_load 2s;
+  animation-iteration-count: 1;
 }
 .con13 {
   width: 45vw;
@@ -344,6 +356,7 @@ nav ul li a {
   position: absolute;
   transform: rotate(-10deg);
   animation: confetti_load 2s;
+  animation-iteration-count: 1;
 }
 
 .con14 {
@@ -354,6 +367,7 @@ nav ul li a {
   position: absolute;
   transform: rotate(5deg);
   animation: confetti_load 2s;
+  animation-iteration-count: 1;
 }
 
 .con15 {
@@ -364,6 +378,7 @@ nav ul li a {
   position: absolute;
   transform: rotate(-15deg);
   animation: confetti_load 2s;
+  animation-iteration-count: 1;
 }
 
 .con16 {
@@ -374,6 +389,7 @@ nav ul li a {
   position: absolute;
   transform: rotate(0deg);
   animation: confetti_load 2s;
+  animation-iteration-count: 1;
 }
 
 .con17 {
@@ -384,6 +400,7 @@ nav ul li a {
   position: absolute;
   transform: rotate(-5deg);
   animation: confetti_load 2s;
+  animation-iteration-count: 1;
 }
 
 .con18 {
@@ -394,6 +411,7 @@ nav ul li a {
   position: absolute;
   transform: rotate(20deg);
   animation: confetti_load 2s;
+  animation-iteration-count: 1;
 }
 
 .con19 {
@@ -404,6 +422,7 @@ nav ul li a {
   position: absolute;
   transform: rotate(-15deg);
   animation: confetti_load 2s;
+  animation-iteration-count: 1;
 }
 
 .con20 {
@@ -414,6 +433,7 @@ nav ul li a {
   position: absolute;
   transform: rotate(10deg);
   animation: confetti_load 2s;
+  animation-iteration-count: 1;
 }
 
 .con21 {
@@ -424,6 +444,7 @@ nav ul li a {
   position: absolute;
   transform: rotate(-20deg);
   animation: confetti_load 2s;
+  animation-iteration-count: 1;
 }
 .con22 {
   width: 45vw;
@@ -433,6 +454,7 @@ nav ul li a {
   position: absolute;
   transform: rotate(15deg);
   animation: confetti_load 2s;
+  animation-iteration-count: 1;
 }
 
 .con23 {
@@ -443,6 +465,7 @@ nav ul li a {
   position: absolute;
   transform: rotate(-10deg);
   animation: confetti_load 2s;
+  animation-iteration-count: 1;
 }
 
 .con7 {
@@ -453,6 +476,7 @@ nav ul li a {
   position: absolute;
   transform: rotate(-10deg);
   animation: confetti_load 2s;
+  animation-iteration-count: 1;
 }
 
 .con8 {
@@ -463,6 +487,7 @@ nav ul li a {
   position: absolute;
   transform: rotate(15deg);
   animation: confetti_load 2s;
+  animation-iteration-count: 1;
 }
 
 .con9 {
@@ -473,6 +498,7 @@ nav ul li a {
   position: absolute;
   transform: rotate(-5deg);
   animation: confetti_load 2s;
+  animation-iteration-count: 1;
 }
 .con10 {
   width: 45vw;
@@ -482,6 +508,7 @@ nav ul li a {
   position: absolute;
   transform: rotate(10deg);
   animation: confetti_load 2s;
+  animation-iteration-count: 1;
 }
 
 .con11 {
@@ -492,6 +519,7 @@ nav ul li a {
   position: absolute;
   transform: rotate(20deg);
   animation: confetti_load 2s;
+  animation-iteration-count: 1;
 }
 
 .con12 {
@@ -502,6 +530,7 @@ nav ul li a {
   position: absolute;
   transform: rotate(-15deg);
   animation: confetti_load 2s;
+  animation-iteration-count: 1;
 }
 
 .con24 {
@@ -512,6 +541,7 @@ nav ul li a {
   position: absolute;
   transform: rotate(-20deg);
   animation: confetti_load 2s;
+  animation-iteration-count: 1;
 }
 .con25 {
   width: 45vw;
@@ -521,6 +551,7 @@ nav ul li a {
   position: absolute;
   transform: rotate(10deg);
   animation: confetti_load 2s;
+  animation-iteration-count: 1;
 }
 .con26 {
   width: 45vw;
@@ -530,6 +561,7 @@ nav ul li a {
   position: absolute;
   transform: rotate(-5deg);
   animation: confetti_load 2s;
+  animation-iteration-count: 1;
 }
 
 .con27 {
@@ -540,6 +572,7 @@ nav ul li a {
   position: absolute;
   transform: rotate(20deg);
   animation: confetti_load 2s;
+  animation-iteration-count: 1;
 }
 
 .con28 {
@@ -550,6 +583,7 @@ nav ul li a {
   position: absolute;
   transform: rotate(-10deg);
   animation: confetti_load 2s;
+  animation-iteration-count: 1;
 }
 
 .con29 {
@@ -560,6 +594,7 @@ nav ul li a {
   position: absolute;
   transform: rotate(15deg);
   animation: confetti_load 2s;
+  animation-iteration-count: 1;
 }
 
 .con30 {
@@ -570,6 +605,7 @@ nav ul li a {
   position: absolute;
   transform: rotate(-5deg);
   animation: confetti_load 2s;
+  animation-iteration-count: 1;
 }
 .con31 {
   width: 45vw;
@@ -579,6 +615,7 @@ nav ul li a {
   position: absolute;
   transform: rotate(10deg);
   animation: confetti_load 2s;
+  animation-iteration-count: 1;
 }
 
 .con32 {
@@ -589,6 +626,7 @@ nav ul li a {
   position: absolute;
   transform: rotate(-15deg);
   animation: confetti_load 2s;
+  animation-iteration-count: 1;
 }
 
 .con33 {
@@ -599,6 +637,7 @@ nav ul li a {
   position: absolute;
   transform: rotate(5deg);
   animation: confetti_load 2s;
+  animation-iteration-count: 1;
 }
 
 .con34 {
@@ -609,6 +648,7 @@ nav ul li a {
   position: absolute;
   transform: rotate(-10deg);
   animation: confetti_load 2s;
+  animation-iteration-count: 1;
 }
 .con35 {
   width: 45vw;
@@ -618,6 +658,7 @@ nav ul li a {
   position: absolute;
   transform: rotate(20deg);
   animation: confetti_load 2s;
+  animation-iteration-count: 1;
 }
 .con36 {
   width: 45vw;
@@ -627,6 +668,7 @@ nav ul li a {
   position: absolute;
   transform: rotate(-5deg);
   animation: confetti_load 2s;
+  animation-iteration-count: 1;
 }
 
 .con37 {
@@ -637,6 +679,7 @@ nav ul li a {
   position: absolute;
   transform: rotate(15deg);
   animation: confetti_load 2s;
+  animation-iteration-count: 1;
 }
 
 .con38 {
@@ -647,6 +690,7 @@ nav ul li a {
   position: absolute;
   transform: rotate(-10deg);
   animation: confetti_load 2s;
+  animation-iteration-count: 1;
 }
 
 .con39 {
@@ -657,6 +701,7 @@ nav ul li a {
   position: absolute;
   transform: rotate(20deg);
   animation: confetti_load 2s;
+  animation-iteration-count: 1;
 }
 .con40 {
   width: 45vw;
@@ -666,6 +711,7 @@ nav ul li a {
   position: absolute;
   transform: rotate(-15deg);
   animation: confetti_load 2s;
+  animation-iteration-count: 1;
 }
 
 .con41 {
@@ -676,6 +722,7 @@ nav ul li a {
   position: absolute;
   transform: rotate(5deg);
   animation: confetti_load 2s;
+  animation-iteration-count: 1;
 }
 
 .con42 {
@@ -686,6 +733,7 @@ nav ul li a {
   position: absolute;
   transform: rotate(-10deg);
   animation: confetti_load 2s;
+  animation-iteration-count: 1;
 }
 
 .con43 {
@@ -696,6 +744,7 @@ nav ul li a {
   position: absolute;
   transform: rotate(20deg);
   animation: confetti_load 2s;
+  animation-iteration-count: 1;
 }
 
 .con44 {
@@ -706,6 +755,7 @@ nav ul li a {
   position: absolute;
   transform: rotate(-5deg);
   animation: confetti_load 2s;
+  animation-iteration-count: 1;
 }
 
 .con45 {
@@ -716,6 +766,7 @@ nav ul li a {
   position: absolute;
   transform: rotate(10deg);
   animation: confetti_load 2s;
+  animation-iteration-count: 1;
 }
 .con46 {
   width: 45vw;
@@ -725,6 +776,7 @@ nav ul li a {
   position: absolute;
   transform: rotate(-15deg);
   animation: confetti_load 2s;
+  animation-iteration-count: 1;
 }
 
 .con47 {
@@ -735,6 +787,7 @@ nav ul li a {
   position: absolute;
   transform: rotate(5deg);
   animation: confetti_load 2s;
+  animation-iteration-count: 1;
 }
 
 .con48 {
@@ -745,14 +798,17 @@ nav ul li a {
   position: absolute;
   transform: rotate(-10deg);
   animation: confetti_load 2s;
+  animation-iteration-count: 1;
 }
 .confetti:hover {
   display: none;
   pointer-events: none;
   z-index: 50;
+  animation-iteration-count: 1;
 }
 .confetti {
   z-index: 50;
+  animation-iteration-count: 1;
 }
 /*CREDITS*/
 .credits_ch {
