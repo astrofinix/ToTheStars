@@ -11,9 +11,9 @@
   --blue: #2a47a7;
   --yellow: rgb(255, 194, 0);
 }
-* {
+/* * {
   outline: 1px solid #f00 !important;
-}
+} */
 body {
   background-color: black;
   border: none;
